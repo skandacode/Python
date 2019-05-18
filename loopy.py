@@ -1,0 +1,144 @@
+
+def SkandaFunction(name1, name2, name3):
+    for i in range(0,3):
+        print(name3)
+        print(name1)
+        print(name2)
+    
+
+def MyAddition(num1, num2):
+    print(" You sent me these numbers %s and %s" %(num2, num1))
+    return num1 * num2 + 10
+
+
+
+
+var1 = 5
+var2 = 6
+
+
+
+
+
+
+def multi(num):
+    for m in range(1, 11):
+        print('%s * %s = %s' % (num, m, num * m))
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

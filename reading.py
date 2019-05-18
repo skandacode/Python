@@ -1,0 +1,6 @@
+textfile=open('c:\\Users\\aruns\\Desktop\\Jokes.txt')
+tjoke=textfile.read()
+print(tjoke)
+textfile2=open('c:\\Users\\aruns\\Desktop\\Answer.txt')
+tanswer=textfile2.read()
+print(tanswer)

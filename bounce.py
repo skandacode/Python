@@ -11,6 +11,7 @@ class Ball:
         starts = [-3,-2,-1,1,2,3]
         random.shuffle(starts)
         self.x=starts[0]
+        
         self.y=-1
         self.canvas_height=self.canvas.winfo_height()
         self.canvas_width=self.canvas.winfo_width()
